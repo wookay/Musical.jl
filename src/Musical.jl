@@ -1,5 +1,7 @@
 module Musical
 
-# package code goes here
+include("notations.jl")
+include("chords.jl")
+include("SPN.jl")
 
 end # module
